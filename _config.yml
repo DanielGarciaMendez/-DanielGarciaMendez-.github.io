@@ -156,7 +156,7 @@ yandex_site_verification :
 analytics:
   provider               :  "google-gtag"
   google:
-    tracking_id          : "G-Z3EHB9867Q"
+    tracking_id          : "G-1WKM8B3LF9"
  
 
 # Reading Files
