@@ -1,7 +1,3 @@
-
-
-![Daniel Garcia](assets/profile.jpg)
-
 ## Education
 **University of Houston**  
 Bachelor of Science in Computer Science  
